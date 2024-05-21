@@ -1,2 +1,3 @@
-# SleepTime
-I need to publish my work because i have important things to do
+## SleepTime
+
+An App Inventor 2 extension created using Rush.
